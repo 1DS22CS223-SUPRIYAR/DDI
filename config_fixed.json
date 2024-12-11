@@ -1,0 +1,1 @@
+{"batch_size": 32, "num_workers": 8, "epochs": 200, "lr": 0.0001, "num_classes": 86, "num_heads": 8, "hidden_dim": 256, "fnn_dim": 256, "input_dropout_rate": 0, "encoder_dropout_rate": 0, "attention_dropout_rate": 0, "flatten_dim": 2048, "num_layers": 3}
