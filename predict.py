@@ -14,7 +14,7 @@ from collator import collator
 use_cuda = torch.cuda.is_available()
 device = torch.device("cpu")
 
-parser = ArgumentParser(description='Molormer Prediction.')
+parser = ArgumentParser(description='Drugram Prediction.')
 parser.add_argument('-b', '--batch-size', default=16, type=int,metavar='N')
 parser.add_argument('-j', '--workers', default=4, type=int, metavar='N')
 
@@ -115,7 +115,7 @@ from collator import collator
 use_cuda = torch.cuda.is_available()
 device = torch.device("cuda" if use_cuda else "cpu")
 
-parser = ArgumentParser(description='Molormer Prediction.')
+parser = ArgumentParser(description='Drugram Prediction.')
 parser.add_argument('-b', '--batch-size', default=16, type=int, metavar='N')
 parser.add_argument('-j', '--workers', default=4, type=int, metavar='N')
 
@@ -217,7 +217,7 @@ if not torch.backends.mps.is_available():
 
 device = torch.device("mps")
 
-parser = ArgumentParser(description='Molormer Prediction.')
+parser = ArgumentParser(description='Drugram Prediction.')
 parser.add_argument('-b', '--batch-size', default=16, type=int, metavar='N')
 parser.add_argument('-j', '--workers', default=4, type=int, metavar='N')
 
@@ -252,7 +252,17 @@ def test(data_generator, model):
 
         y_label = y_label + label_ids.flatten().tolist()
         y_pred = y_pred + outputs.flatten().tolist()
+    
+    #Saving Output
+    df_results = pd.DataFrame({
+        'Label': y_label,
+        'Prediction': y_pred
+    }) 
+    output_file = "predictions.csv"
+    df_results.to_csv(output_file, index=False)
+    print(f"Predictions saved to {output_file}")
      
+    #Metrics Calculation
     loss = loss_accumulate / count
 
     accuracy = accuracy_score(y_label, y_pred)

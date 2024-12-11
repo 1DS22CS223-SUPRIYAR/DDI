@@ -10,13 +10,13 @@ torch.manual_seed(1)
 np.random.seed(1)
 
 
-class Molormer(nn.Sequential):
+class Drugram(nn.Sequential):
     '''
-        Molormer Network with spatial graph encoder and lightweight attention block
+        Drugram Network with spatial graph encoder and lightweight attention block
     '''
 
     def __init__(self, **config):
-        super(Molormer, self).__init__()
+        super(Drugram, self).__init__()
 
         self.gpus = torch.cuda.device_count()
         self.num_layers = config['num_layers']

@@ -8,7 +8,7 @@ from sklearn.metrics import f1_score, precision_score, recall_score, accuracy_sc
 from torch import nn
 from torch.autograd import Variable
 from torch.utils import data
-from models import Molormer
+from models import Drugram
 from collator import *
 torch.manual_seed(2)
 np.random.seed(3)
@@ -68,7 +68,7 @@ def main():
     loss_history = []
     
     # model = torch.load('./save_model/best_model.pth')
-    model = Molormer(**config)
+    model = Drugram(**config)
 
     model = model.cuda()
 
@@ -173,7 +173,7 @@ from sklearn.metrics import f1_score, precision_score, recall_score, accuracy_sc
 from torch import nn
 from torch.autograd import Variable
 from torch.utils import data
-from models import Molormer
+from models import Drugram
 from collator import *
 torch.manual_seed(2)
 np.random.seed(3)
@@ -236,7 +236,7 @@ def main():
     loss_history = []
     
     # model = torch.load('./save_model/best_model.pth')
-    model = Molormer(**config)
+    model = Drugram(**config)
 
     # Move the model to the correct device (GPU or CPU)
     model = model.to(device)
