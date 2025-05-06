@@ -1,0 +1,2150 @@
+DrugBank ID,Drug Name,Primary ID
+DB01022,Phylloquinone,False
+DB01373,Calcium,False
+DB00006,Bivalirudin,False
+DB00014,Goserelin,True
+DB00027,Gramicidin D,True
+DB00035,Desmopressin,True
+DB00050,Cetrorelix,True
+DB00080,Daptomycin,True
+DB00091,Cyclosporine,True
+DB00093,Felypressin,True
+DB00104,Octreotide,True
+DB00106,Abarelix,True
+DB00114,Pyridoxal phosphate,False
+DB00119,Pyruvic acid,False
+DB00125,Arginine,False
+DB00128,Aspartic acid,False
+DB00129,Ornithine,False
+DB00130,L-Glutamine,False
+DB00131,Adenosine phosphate,False
+DB00142,Glutamic acid,False
+DB00155,Citrulline,False
+DB00157,NADH,False
+DB00160,Alanine,False
+DB03904,Urea,False
+DB04160,Pyrophosphoric acid,False
+DB00118,Ademetionine,False
+DB00133,Serine,False
+DB00134,Methionine,False
+DB00145,Glycine,False
+DB00151,Cysteine,False
+DB00855,Aminolevulinic acid,False
+DB01378,Magnesium cation,False
+DB01593,Zinc,False
+DB03147,Flavin adenine dinucleotide,False
+DB03843,Formaldehyde,False
+DB00126,Ascorbic acid,False
+DB00135,Tyrosine,False
+DB00360,Sapropterin,False
+DB00368,Norepinephrine,False
+DB00668,Epinephrine,False
+DB00988,Dopamine,False
+DB01235,Levodopa,False
+DB01592,Iron,False
+DB00117,Histidine,False
+DB00121,Biotin,False
+DB00174,Asparagine,False
+DB00161,Valine,False
+DB00139,Succinic acid,False
+DB00172,Proline,False
+DB00435,Nitric Oxide,False
+DB03247,Flavin mononucleotide,False
+DB00847,Cysteamine,False
+DB01956,Taurine,False
+DB00640,Adenosine,False
+DB00143,Glutathione,False
+DB02530,gamma-Aminobutyric acid,False
+DB00147,Pyridoxal,False
+DB00149,Leucine,False
+DB00167,Isoleucine,False
+DB00122,Choline,False
+DB01345,Potassium cation,False
+DB00123,Lysine,False
+DB00120,Phenylalanine,False
+DB00822,Disulfiram,False
+DB00898,Ethanol,False
+DB03166,Acetic acid,False
+DB00583,Levocarnitine,False
+DB00115,Cyanocobalamin,True
+DB00173,Adenine,False
+DB04335,Inosine,False
+DB00993,Azathioprine,False
+DB01033,Mercaptopurine,False
+DB00352,Tioguanine,False
+DB00158,Folic acid,False
+DB00563,Methotrexate,False
+DB00650,Leucovorin,False
+DB01942,Formic acid,False
+DB00156,Threonine,False
+DB00207,Azithromycin,False
+DB01190,Clindamycin,False
+DB00199,Erythromycin,False
+DB01172,Kanamycin,False
+DB00452,Framycetin,False
+DB00955,Netilmicin,False
+DB01082,Streptomycin,False
+DB00453,Clomocycline,False
+DB01783,Pantothenic acid,False
+DB00684,Tobramycin,False
+DB01301,Rolitetracycline,False
+DB01211,Clarithromycin,False
+DB00778,Roxithromycin,False
+DB00798,Gentamicin,False
+DB00595,Oxytetracycline,False
+DB00759,Tetracycline,False
+DB06696,Arbekacin,False
+DB01321,Josamycin,False
+DB00976,Telithromycin,False
+DB00479,Amikacin,False
+DB00919,Spectinomycin,False
+DB00618,Demeclocycline,False
+DB00254,Doxycycline,False
+DB01017,Minocycline,False
+DB00252,Phenytoin,False
+DB00144,Phosphatidyl serine,False
+DB00141,N-Acetylglucosamine,False
+DB01296,Glucosamine,False
+DB01839,Propylene glycol,False
+DB04272,Citric acid,False
+DB00127,Spermine,False
+DB04564,Gluconolactone,False
+DB03796,Palmitic Acid,False
+DB00152,Thiamine,False
+DB00132,alpha-Linolenic acid,False
+DB00154,Dihomo-gamma-linolenic acid,False
+DB00159,Icosapent,False
+DB00256,Lymecycline,False
+DB00560,Tigecycline,False
+DB01421,Paromomycin,False
+DB00931,Metacycline,False
+DB01627,Lincomycin,False
+DB00446,Chloramphenicol,False
+DB00279,Liothyronine,False
+DB00451,Levothyroxine,False
+DB00136,Calcitriol,True
+DB00137,Lutein,True
+DB00138,Cystine,True
+DB00140,Riboflavin,False
+DB00749,Etodolac,False
+DB00917,Dinoprostone,False
+DB01009,Ketoprofen,False
+DB01050,Ibuprofen,False
+DB00482,Celecoxib,False
+DB00870,Suprofen,False
+DB00328,Indomethacin,False
+DB00861,Diflunisal,False
+DB00554,Piroxicam,False
+DB00586,Diclofenac,False
+DB00605,Sulindac,False
+DB00461,Nabumetone,False
+DB01435,Antipyrine,False
+DB00712,Flurbiprofen,False
+DB06802,Nepafenac,False
+DB00945,Acetylsalicylic acid,False
+DB00465,Ketorolac,False
+DB00963,Bromfenac,False
+DB00814,Meloxicam,False
+DB00784,Mefenamic acid,False
+DB00991,Oxaprozin,False
+DB00788,Naproxen,False
+DB00531,Cyclophosphamide,False
+DB00316,Acetaminophen,False
+DB02659,Cholic Acid,False
+DB06777,Chenodeoxycholic acid,False
+DB00146,Calcifediol,True
+DB00165,Pyridoxine,False
+DB00150,Tryptophan,False
+DB01065,Melatonin,False
+DB02959,Oxitriptan,False
+DB01324,Polythiazide,False
+DB00887,Bumetanide,False
+DB01325,Quinethazone,False
+DB00808,Indapamide,False
+DB01021,Trichlormethiazide,False
+DB00421,Spironolactone,False
+DB00700,Eplerenone,False
+DB00880,Chlorothiazide,False
+DB00436,Bendroflumethiazide,False
+DB00903,Etacrynic acid,False
+DB00606,Cyclothiazide,False
+DB00774,Hydroflumethiazide,False
+DB00310,Chlorthalidone,False
+DB00594,Amiloride,False
+DB00153,Ergocalciferol,True
+DB00201,Caffeine,False
+DB00277,Theophylline,False
+DB01412,Theobromine,False
+DB01638,Sorbitol,False
+DB00624,Testosterone,False
+DB00655,Estrone,False
+DB00783,Estradiol,False
+DB04574,Estrone sulfate,False
+DB00162,Vitamin A,False
+DB00523,Alitretinoin,False
+DB00755,Tretinoin,False
+DB00163,Vitamin E,True
+DB00166,Lipoic acid,True
+DB00168,Aspartame,True
+DB00169,Cholecalciferol,False
+DB00227,Lovastatin,False
+DB00641,Simvastatin,False
+DB00175,Pravastatin,False
+DB01098,Rosuvastatin,False
+DB00399,Zoledronic acid,False
+DB00282,Pamidronic acid,False
+DB01095,Fluvastatin,False
+DB00710,Ibandronate,False
+DB00630,Alendronic acid,False
+DB00884,Risedronic acid,False
+DB00170,Menadione,True
+DB04465,Lactose,False
+DB00176,Fluvoxamine,True
+DB00177,Valsartan,False
+DB00178,Ramipril,False
+DB00179,Masoprocol,True
+DB00180,Flunisolide,True
+DB00181,Baclofen,True
+DB00182,Amphetamine,True
+DB00183,Pentagastrin,True
+DB00184,Nicotine,False
+DB00185,Cevimeline,True
+DB00186,Lorazepam,True
+DB00187,Esmolol,False
+DB00188,Bortezomib,True
+DB00189,Ethchlorvynol,True
+DB00190,Carbidopa,True
+DB00191,Phentermine,True
+DB00192,Indecainide,True
+DB00193,Tramadol,False
+DB00194,Vidarabine,True
+DB00195,Betaxolol,False
+DB00196,Fluconazole,True
+DB00198,Oseltamivir,True
+DB00200,Hydroxocobalamin,True
+DB00202,Succinylcholine,True
+DB00203,Sildenafil,True
+DB00204,Dofetilide,True
+DB00205,Pyrimethamine,True
+DB00206,Reserpine,True
+DB00208,Ticlopidine,False
+DB00209,Trospium,True
+DB00210,Adapalene,True
+DB00211,Midodrine,True
+DB00212,Remikiren,True
+DB00213,Pantoprazole,False
+DB03128,Acetylcholine,False
+DB00214,Torasemide,False
+DB00215,Citalopram,False
+DB00216,Eletriptan,True
+DB00217,Bethanidine,True
+DB00218,Moxifloxacin,True
+DB00219,Oxyphenonium,True
+DB00220,Nelfinavir,True
+DB00221,Isoetharine,True
+DB00222,Glimepiride,True
+DB00223,Diflorasone,True
+DB00224,Indinavir,True
+DB00226,Guanadrel,True
+DB00228,Enflurane,True
+DB00229,Cefotiam,True
+DB00230,Pregabalin,True
+DB00231,Temazepam,True
+DB00232,Methyclothiazide,False
+DB00233,Aminosalicylic acid,True
+DB00234,Reboxetine,True
+DB00235,Milrinone,True
+DB00236,Pipobroman,True
+DB00237,Butabarbital,True
+DB00238,Nevirapine,False
+DB00239,Oxiconazole,True
+DB00240,Alclometasone,True
+DB00241,Butalbital,True
+DB00242,Cladribine,True
+DB00243,Ranolazine,True
+DB00244,Mesalazine,True
+DB00245,Benzatropine,True
+DB00246,Ziprasidone,True
+DB00247,Methysergide,True
+DB00248,Cabergoline,True
+DB00249,Idoxuridine,True
+DB00250,Dapsone,True
+DB00251,Terconazole,True
+DB01320,Fosphenytoin,False
+DB00253,Medrysone,True
+DB00255,Diethylstilbestrol,True
+DB00257,Clotrimazole,True
+DB00258,Calcium acetate,True
+DB00259,Sulfanilamide,True
+DB00260,Cycloserine,True
+DB00261,Anagrelide,True
+DB00262,Carmustine,True
+DB00263,Sulfisoxazole,True
+DB00264,Metoprolol,False
+DB00265,Crotamiton,True
+DB00266,Dicoumarol,False
+DB00267,Cefmenoxime,True
+DB00268,Ropinirole,True
+DB00270,Isradipine,False
+DB00271,Diatrizoate,True
+DB00272,Betazole,False
+DB00273,Topiramate,True
+DB00274,Cefmetazole,True
+DB00275,Olmesartan,False
+DB00276,Amsacrine,True
+DB00278,Argatroban,False
+DB00280,Disopyramide,False
+DB00281,Lidocaine,False
+DB00283,Clemastine,False
+DB00284,Acarbose,True
+DB00285,Venlafaxine,False
+DB06700,Desvenlafaxine,False
+DB00287,Travoprost,True
+DB00288,Amcinonide,True
+DB00289,Atomoxetine,True
+DB00290,Bleomycin,True
+DB00291,Chlorambucil,True
+DB00292,Etomidate,True
+DB00293,Raltitrexed,True
+DB00294,Etonogestrel,True
+DB00295,Morphine,False
+DB00318,Codeine,False
+DB01452,Diamorphine,False
+DB00296,Ropivacaine,False
+DB00297,Bupivacaine,False
+DB00298,Dapiprazole,True
+DB00299,Penciclovir,True
+DB00300,Tenofovir disoproxil,False
+DB00301,Flucloxacillin,True
+DB00302,Tranexamic acid,False
+DB00303,Ertapenem,True
+DB00304,Desogestrel,True
+DB00305,Mitomycin,True
+DB00306,Talbutal,True
+DB00307,Bexarotene,True
+DB00308,Ibutilide,False
+DB00309,Vindesine,False
+DB00312,Pentobarbital,True
+DB00313,Valproic acid,False
+DB00314,Capreomycin,True
+DB00315,Zolmitriptan,True
+DB00317,Gefitinib,False
+DB00319,Piperacillin,True
+DB00320,Dihydroergotamine,True
+DB00321,Amitriptyline,True
+DB00322,Floxuridine,True
+DB00323,Tolcapone,True
+DB00324,Fluorometholone,True
+DB00325,Nitroprusside,True
+DB00326,Calcium glucoheptonate,True
+DB00327,Hydromorphone,False
+DB00330,Ethambutol,True
+DB00331,Metformin,True
+DB00332,Ipratropium,True
+DB00333,Methadone,False
+DB00334,Olanzapine,True
+DB00335,Atenolol,False
+DB00336,Nitrofural,True
+DB00337,Pimecrolimus,True
+DB00338,Omeprazole,False
+DB00339,Pyrazinamide,True
+DB00340,Metixene,True
+DB00341,Cetirizine,False
+DB00343,Diltiazem,False
+DB00344,Protriptyline,True
+DB00345,Aminohippuric acid,True
+DB00346,Alfuzosin,True
+DB00347,Trimethadione,True
+DB00348,Nitisinone,True
+DB00349,Clobazam,True
+DB00350,Minoxidil,True
+DB00351,Megestrol acetate,True
+DB00353,Methylergometrine,True
+DB00354,Buclizine,False
+DB00355,Aztreonam,True
+DB00356,Chlorzoxazone,True
+DB00357,Aminoglutethimide,True
+DB00358,Mefloquine,True
+DB00359,Sulfadiazine,True
+DB00997,Doxorubicin,False
+DB00361,Vinorelbine,False
+DB00362,Anidulafungin,True
+DB00363,Clozapine,True
+DB00364,Sucralfate,True
+DB00366,Doxylamine,False
+DB00367,Levonorgestrel,True
+DB01086,Benzocaine,False
+DB00807,Proparacaine,False
+DB00813,Fentanyl,False
+DB00708,Sufentanil,False
+DB01433,Methadyl acetate,False
+DB06738,Ketobemidone,False
+DB00892,Oxybuprocaine,False
+DB00956,Hydrocodone,False
+DB01192,Oxymorphone,False
+DB00899,Remifentanil,False
+DB00472,Fluoxetine,False
+DB00647,Dextropropoxyphene,False
+DB00913,Anileridine,False
+DB00504,Levallorphan,False
+DB00369,Cidofovir,True
+DB00370,Mirtazapine,False
+DB00371,Meprobamate,False
+DB00544,Fluorouracil,False
+DB01101,Capecitabine,False
+DB00373,Timolol,False
+DB00374,Treprostinil,True
+DB00375,Colestipol,True
+DB00376,Trihexyphenidyl,True
+DB00377,Palonosetron,True
+DB00378,Dydrogesterone,True
+DB00379,Mexiletine,False
+DB00380,Dexrazoxane,True
+DB00381,Amlodipine,False
+DB00383,Oxyphencyclimine,True
+DB00384,Triamterene,False
+DB00385,Valrubicin,True
+DB00387,Procyclidine,True
+DB00388,Phenylephrine,True
+DB00389,Carbimazole,True
+DB00390,Digoxin,True
+DB00391,Sulpiride,True
+DB00392,Profenamine,True
+DB00393,Nimodipine,False
+DB00394,Beclomethasone dipropionate,True
+DB00395,Carisoprodol,True
+DB00396,Progesterone,False
+DB00741,Hydrocortisone,False
+DB00397,Phenylpropanolamine,True
+DB00398,Sorafenib,False
+DB00400,Griseofulvin,True
+DB00401,Nisoldipine,False
+DB00402,Eszopiclone,True
+DB00403,Ceruletide,True
+DB00404,Alprazolam,True
+DB00405,Dexbrompheniramine,False
+DB00406,Gentian violet cation,True
+DB00408,Loxapine,True
+DB00409,Remoxipride,True
+DB00410,Mupirocin,True
+DB00411,Carbamoylcholine,True
+DB00412,Rosiglitazone,False
+DB00413,Pramipexole,True
+DB00415,Ampicillin,True
+DB00417,Phenoxymethylpenicillin,True
+DB00418,Secobarbital,True
+DB00419,Miglustat,True
+DB00420,Promazine,True
+DB00422,Methylphenidate,True
+DB00423,Methocarbamol,True
+DB00424,Hyoscyamine,True
+DB00425,Zolpidem,True
+DB00426,Famciclovir,True
+DB00427,Triprolidine,False
+DB00428,Streptozocin,True
+DB00429,Carboprost tromethamine,True
+DB00430,Cefpiramide,True
+DB00431,Lindane,True
+DB00432,Trifluridine,True
+DB00433,Prochlorperazine,True
+DB00434,Cyproheptadine,False
+DB00437,Allopurinol,True
+DB00438,Ceftazidime,True
+DB00440,Trimethoprim,True
+DB00441,Gemcitabine,False
+DB00442,Entecavir,True
+DB00443,Betamethasone,True
+DB00444,Teniposide,False
+DB00445,Epirubicin,True
+DB00448,Lansoprazole,False
+DB00449,Dipivefrin,True
+DB00450,Droperidol,True
+DB00454,Meperidine,True
+DB00455,Loratadine,False
+DB00456,Cefalotin,True
+DB00457,Prazosin,True
+DB00458,Imipramine,False
+DB01151,Desipramine,False
+DB00459,Acitretin,True
+DB00460,Verteporfin,True
+DB00462,Methscopolamine bromide,True
+DB00464,Sodium tetradecyl sulfate,True
+DB00467,Enoxacin,True
+DB00468,Quinine,True
+DB00469,Tenoxicam,False
+DB00470,Dronabinol,True
+DB00471,Montelukast,True
+DB00473,Hexylcaine,True
+DB00474,Methohexital,True
+DB00475,Chlordiazepoxide,True
+DB00476,Duloxetine,True
+DB00477,Chlorpromazine,True
+DB00478,Rimantadine,True
+DB00480,Lenalidomide,True
+DB00481,Raloxifene,True
+DB00483,Gallamine triethiodide,True
+DB00484,Brimonidine,True
+DB00485,Dicloxacillin,True
+DB00486,Nabilone,True
+DB00487,Pefloxacin,True
+DB00488,Altretamine,True
+DB00489,Sotalol,False
+DB00490,Buspirone,True
+DB00491,Miglitol,True
+DB00492,Fosinopril,False
+DB00493,Cefotaxime,True
+DB00494,Entacapone,True
+DB00495,Zidovudine,False
+DB00496,Darifenacin,True
+DB00497,Oxycodone,False
+DB00498,Phenindione,False
+DB00499,Flutamide,True
+DB00500,Tolmetin,False
+DB00501,Cimetidine,False
+DB00502,Haloperidol,True
+DB00503,Ritonavir,True
+DB00507,Nitazoxanide,True
+DB00508,Triflupromazine,True
+DB00509,Dextrothyroxine,True
+DB00511,Acetyldigitoxin,True
+DB00512,Vancomycin,True
+DB00513,Aminocaproic acid,False
+DB00514,Dextromethorphan,True
+DB00515,Cisplatin,True
+DB00517,Anisotropine methylbromide,True
+DB00518,Albendazole,True
+DB00519,Trandolapril,False
+DB00520,Caspofungin,True
+DB00521,Carteolol,False
+DB00524,Metolazone,False
+DB00525,Tolnaftate,True
+DB00526,Oxaliplatin,True
+DB00527,Cinchocaine,False
+DB00528,Lercanidipine,True
+DB00529,Foscarnet,True
+DB00530,Erlotinib,False
+DB00534,Chlormerodrin,True
+DB00535,Cefdinir,True
+DB00536,Guanidine,True
+DB00537,Ciprofloxacin,True
+DB00538,Gadoversetamide,True
+DB00539,Toremifene,True
+DB00540,Nortriptyline,True
+DB00541,Vincristine,False
+DB00542,Benazepril,False
+DB00543,Amoxapine,True
+DB00545,Pyridostigmine,True
+DB00546,Adinazolam,True
+DB00547,Desoximetasone,True
+DB00548,Azelaic acid,True
+DB00549,Zafirlukast,True
+DB00550,Propylthiouracil,True
+DB00551,Acetohydroxamic acid,True
+DB00552,Pentostatin,True
+DB00553,Methoxsalen,True
+DB00555,Lamotrigine,True
+DB00556,Perflutren,True
+DB00557,Hydroxyzine,False
+DB00558,Zanamivir,True
+DB00559,Bosentan,True
+DB00561,Doxapram,True
+DB00562,Benzthiazide,True
+DB00564,Carbamazepine,False
+DB00776,Oxcarbazepine,False
+DB00565,Cisatracurium,True
+DB00566,Succimer,True
+DB00567,Cephalexin,True
+DB00568,Cinnarizine,False
+DB00569,Fondaparinux,False
+DB00570,Vinblastine,False
+DB00571,Propranolol,False
+DB00572,Atropine,True
+DB00573,Fenoprofen,False
+DB00575,Clonidine,True
+DB00576,Sulfamethizole,True
+DB00577,Valaciclovir,True
+DB00578,Carbenicillin,True
+DB00579,Mazindol,True
+DB00581,Lactulose,True
+DB00582,Voriconazole,True
+DB03017,Lauric acid,False
+DB03193,Stearic acid,False
+DB00584,Enalapril,False
+DB00585,Nizatidine,False
+DB00587,Cinalukast,True
+DB00588,Fluticasone propionate,True
+DB00589,Lisuride,True
+DB00590,Doxazosin,True
+DB00591,Fluocinolone acetonide,True
+DB00592,Piperazine,True
+DB00593,Ethosuximide,True
+DB00596,Ulobetasol,True
+DB00597,Gadoteridol,True
+DB00598,Labetalol,False
+DB00599,Thiopental,True
+DB00600,Monobenzone,True
+DB00601,Linezolid,True
+DB00602,Ivermectin,True
+DB00603,Medroxyprogesterone acetate,True
+DB00604,Cisapride,True
+DB00607,Nafcillin,True
+DB00608,Chloroquine,True
+DB00609,Ethionamide,True
+DB00610,Metaraminol,True
+DB00611,Butorphanol,True
+DB00612,Bisoprolol,False
+DB00613,Amodiaquine,True
+DB00614,Furazolidone,True
+DB00615,Rifabutin,True
+DB00617,Paramethadione,True
+DB00619,Imatinib,False
+DB00620,Triamcinolone,True
+DB00621,Oxandrolone,True
+DB00622,Nicardipine,True
+DB00623,Fluphenazine,True
+DB00625,Efavirenz,False
+DB00626,Bacitracin,True
+DB00627,Niacin,False
+DB02701,Nicotinamide,False
+DB00628,Clorazepic acid,True
+DB00629,Guanabenz,True
+DB00631,Clofarabine,True
+DB00632,Docosanol,True
+DB00633,Dexmedetomidine,True
+DB00634,Sulfacetamide,True
+DB00635,Prednisone,False
+DB00860,Prednisolone,False
+DB00636,Clofibrate,True
+DB00637,Astemizole,False
+DB00638,Inulin,True
+DB00639,Butoconazole,True
+DB00642,Pemetrexed,True
+DB00643,Mebendazole,True
+DB00644,Gonadorelin,True
+DB00645,Dyclonine,True
+DB00646,Nystatin,True
+DB00648,Mitotane,True
+DB00649,Stavudine,False
+DB00651,Dyphylline,True
+DB00652,Pentazocine,False
+DB00653,Magnesium sulfate,True
+DB00654,Latanoprost,True
+DB03255,Phenol,False
+DB04573,Estriol,False
+DB00656,Trazodone,True
+DB00657,Mecamylamine,True
+DB00658,Sevelamer,True
+DB00659,Acamprosate,True
+DB00660,Metaxalone,True
+DB00661,Verapamil,False
+DB00662,Trimethobenzamide,True
+DB00663,Flumethasone,True
+DB00664,Sulfametopyrazine,True
+DB00665,Nilutamide,True
+DB00666,Nafarelin,True
+DB00669,Sumatriptan,True
+DB00670,Pirenzepine,False
+DB00671,Cefixime,True
+DB00672,Chlorpropamide,True
+DB00673,Aprepitant,True
+DB00674,Galantamine,True
+DB00675,Tamoxifen,False
+DB00676,Benzyl benzoate,True
+DB00677,Isoflurophate,True
+DB00678,Losartan,False
+DB00679,Thioridazine,True
+DB00680,Moricizine,True
+DB00681,Amphotericin B,True
+DB00682,Warfarin,False
+DB00683,Midazolam,True
+DB00685,Trovafloxacin,True
+DB00686,Pentosan polysulfate,True
+DB00687,Fludrocortisone,True
+DB00688,Mycophenolate mofetil,False
+DB01024,Mycophenolic acid,False
+DB00689,Cephaloglycin,True
+DB00690,Flurazepam,True
+DB00691,Moexipril,False
+DB00692,Phentolamine,True
+DB00693,Fluorescein,True
+DB00694,Daunorubicin,True
+DB00695,Furosemide,False
+DB00696,Ergotamine,True
+DB00697,Tizanidine,True
+DB00698,Nitrofurantoin,True
+DB00699,Nicergoline,True
+DB00701,Amprenavir,True
+DB00703,Methazolamide,True
+DB00704,Naltrexone,False
+DB00705,Delavirdine,False
+DB00706,Tamsulosin,True
+DB00709,Lamivudine,False
+DB00711,Diethylcarbamazine,True
+DB00713,Oxacillin,True
+DB00714,Apomorphine,True
+DB00715,Paroxetine,True
+DB00716,Nedocromil,True
+DB00717,Norethisterone,True
+DB00718,Adefovir dipivoxil,False
+DB00719,Azatadine,False
+DB00720,Clodronic acid,True
+DB00721,Procaine,False
+DB00722,Lisinopril,False
+DB00723,Methoxamine,True
+DB00724,Imiquimod,True
+DB00725,Homatropine methylbromide,True
+DB00726,Trimipramine,True
+DB00727,Nitroglycerin,True
+DB00728,Rocuronium,True
+DB00730,Thiabendazole,True
+DB00731,Nateglinide,False
+DB00732,Atracurium besylate,True
+DB00733,Pralidoxime,True
+DB00734,Risperidone,True
+DB00735,Naftifine,True
+DB00736,Esomeprazole,False
+DB00737,Meclizine,False
+DB00738,Pentamidine,True
+DB00739,Hetacillin,True
+DB00740,Riluzole,True
+DB00742,Mannitol,True
+DB00743,Gadobenic acid,True
+DB00744,Zileuton,True
+DB00745,Modafinil,True
+DB00746,Deferoxamine,True
+DB00747,Scopolamine,True
+DB00748,Carbinoxamine,False
+DB00750,Prilocaine,False
+DB00751,Epinastine,False
+DB00752,Tranylcypromine,True
+DB00753,Isoflurane,True
+DB00754,Ethotoin,True
+DB00756,Hexachlorophene,True
+DB00757,Dolasetron,True
+DB00758,Clopidogrel,False
+DB00760,Meropenem,True
+DB00761,Potassium chloride,True
+DB00762,Irinotecan,False
+DB00763,Methimazole,True
+DB00764,Mometasone,True
+DB00765,Metyrosine,True
+DB00766,Clavulanic acid,True
+DB00768,Olopatadine,False
+DB00769,Hydrocortamate,True
+DB00770,Alprostadil,True
+DB00771,Clidinium,True
+DB00772,Malathion,True
+DB00773,Etoposide,False
+DB00775,Tirofiban,False
+DB00777,Propiomazine,False
+DB00779,Nalidixic acid,True
+DB00780,Phenelzine,True
+DB00782,Propantheline,True
+DB00786,Marimastat,True
+DB00787,Acyclovir,True
+DB00789,Gadopentetic acid,True
+DB00790,Perindopril,False
+DB00791,Uracil mustard,True
+DB00792,Tripelennamine,False
+DB00793,Haloprogin,True
+DB00794,Primidone,True
+DB00795,Sulfasalazine,True
+DB00796,Candesartan cilexetil,False
+DB00797,Tolazoline,True
+DB00799,Tazarotene,True
+DB00800,Fenoldopam,True
+DB00801,Halazepam,True
+DB00802,Alfentanil,False
+DB00803,Colistin,True
+DB00804,Dicyclomine,True
+DB00805,Minaprine,True
+DB00806,Pentoxifylline,True
+DB00809,Tropicamide,True
+DB00810,Biperiden,True
+DB00811,Ribavirin,True
+DB00812,Phenylbutazone,False
+DB00815,Sodium lauryl sulfate,True
+DB00816,Orciprenaline,True
+DB00817,Rosoxacin,True
+DB00818,Propofol,True
+DB00819,Acetazolamide,True
+DB00820,Tadalafil,True
+DB00821,Carprofen,False
+DB00823,Ethynodiol diacetate,True
+DB00824,Enprofylline,True
+DB00825,Levomenthol,True
+DB00826,Natamycin,True
+DB00827,Cinoxacin,True
+DB00828,Fosfomycin,True
+DB00829,Diazepam,True
+DB00830,Phenmetrazine,True
+DB00831,Trifluoperazine,True
+DB00832,Phensuximide,True
+DB00833,Cefaclor,True
+DB00834,Mifepristone,True
+DB00835,Brompheniramine,False
+DB00836,Loperamide,True
+DB00837,Progabide,True
+DB00838,Clocortolone,True
+DB00839,Tolazamide,True
+DB00841,Dobutamine,False
+DB00842,Oxazepam,True
+DB00843,Donepezil,True
+DB00844,Nalbuphine,False
+DB00845,Clofazimine,True
+DB00846,Flurandrenolide,True
+DB00849,Methylphenobarbital,True
+DB00850,Perphenazine,True
+DB00851,Dacarbazine,True
+DB00852,Pseudoephedrine,True
+DB00853,Temozolomide,True
+DB00854,Levorphanol,False
+DB00856,Chlorphenesin,True
+DB00857,Terbinafine,True
+DB00858,Drostanolone,True
+DB00859,Penicillamine,True
+DB00862,Vardenafil,True
+DB00863,Ranitidine,False
+DB00864,Tacrolimus,True
+DB00865,Benzphetamine,True
+DB00866,Alprenolol,False
+DB00867,Ritodrine,True
+DB00868,Benzonatate,True
+DB00869,Dorzolamide,True
+DB00871,Terbutaline,True
+DB00872,Conivaptan,True
+DB00874,Guaifenesin,True
+DB00875,Flupentixol,True
+DB00876,Eprosartan,False
+DB00877,Sirolimus,True
+DB00878,Chlorhexidine,True
+DB00879,Emtricitabine,False
+DB00881,Quinapril,False
+DB00882,Clomifene,True
+DB00883,Isosorbide dinitrate,True
+DB00885,Pemirolast,True
+DB00888,Mechlorethamine,True
+DB00889,Granisetron,True
+DB00890,Dienestrol,True
+DB00891,Sulfapyridine,True
+DB00894,Testolactone,True
+DB00896,Rimexolone,True
+DB00897,Triazolam,True
+DB00900,Didanosine,False
+DB00902,Methdilazine,False
+DB00904,Ondansetron,True
+DB00905,Bimatoprost,True
+DB00906,Tiagabine,True
+DB00907,Cocaine,False
+DB00908,Quinidine,False
+DB00909,Zonisamide,True
+DB00910,Paricalcitol,True
+DB00911,Tinidazole,True
+DB00912,Repaglinide,False
+DB00914,Phenformin,True
+DB00915,Amantadine,True
+DB00916,Metronidazole,True
+DB01628,Etoricoxib,False
+DB01283,Lumiracoxib,False
+DB01399,Salsalate,False
+DB00918,Almotriptan,True
+DB00920,Ketotifen,False
+DB00921,Buprenorphine,False
+DB00922,Levosimendan,True
+DB00923,Ceforanide,True
+DB00924,Cyclobenzaprine,True
+DB00925,Phenoxybenzamine,True
+DB00927,Famotidine,False
+DB00928,Azacitidine,True
+DB00929,Misoprostol,True
+DB00932,Tipranavir,True
+DB00933,Mesoridazine,True
+DB00934,Maprotiline,True
+DB00935,Oxymetazoline,True
+DB00936,Salicylic acid,False
+DB00937,Diethylpropion,True
+DB00938,Salmeterol,True
+DB00939,Meclofenamic acid,True
+DB00940,Methantheline,True
+DB00941,Hexafluronium,True
+DB00942,Cycrimine,True
+DB00943,Zalcitabine,False
+DB00944,Demecarium,True
+DB00946,Phenprocoumon,False
+DB00947,Fulvestrant,True
+DB00948,Mezlocillin,True
+DB00949,Felbamate,False
+DB00950,Fexofenadine,False
+DB00951,Isoniazid,True
+DB00952,Naratriptan,True
+DB00953,Rizatriptan,True
+DB00954,Dirithromycin,True
+DB00957,Norgestimate,True
+DB00958,Carboplatin,True
+DB00959,Methylprednisolone,True
+DB00960,Pindolol,False
+DB00961,Mepivacaine,False
+DB00962,Zaleplon,True
+DB00964,Apraclonidine,True
+DB00966,Telmisartan,False
+DB00967,Desloratadine,False
+DB00968,Methyldopa,True
+DB00969,Alosetron,True
+DB00970,Dactinomycin,True
+DB00971,Selenium Sulfide,True
+DB00972,Azelastine,False
+DB00973,Ezetimibe,True
+DB00974,Edetic acid,True
+DB00975,Dipyridamole,False
+DB00977,Ethinylestradiol,True
+DB00978,Lomefloxacin,True
+DB00979,Cyclopentolate,True
+DB00980,Ramelteon,True
+DB00981,Physostigmine,True
+DB00982,Isotretinoin,True
+DB00983,Formoterol,True
+DB00984,Nandrolone phenpropionate,True
+DB00985,Dimenhydrinate,True
+DB00986,Glycopyrronium,True
+DB00987,Cytarabine,True
+DB00989,Rivastigmine,True
+DB00990,Exemestane,True
+DB00992,Methyl aminolevulinate,True
+DB00995,Auranofin,True
+DB00996,Gabapentin,True
+DB00998,Frovatriptan,True
+DB00999,Hydrochlorothiazide,False
+DB01000,Cyclacillin,True
+DB01001,Albuterol,True
+DB01002,Levobupivacaine,False
+DB01003,Cromoglicic acid,True
+DB01004,Ganciclovir,True
+DB01005,Hydroxyurea,True
+DB01006,Letrozole,True
+DB01007,Tioconazole,True
+DB01008,Busulfan,True
+DB01010,Edrophonium,True
+DB01011,Metyrapone,True
+DB01012,Cinacalcet,True
+DB01013,Clobetasol propionate,True
+DB01014,Balsalazide,True
+DB01015,Sulfamethoxazole,True
+DB01016,Glyburide,False
+DB01018,Guanfacine,True
+DB01019,Bethanechol,True
+DB01020,Isosorbide mononitrate,True
+DB01418,Acenocoumarol,False
+DB04898,Ximelagatran,False
+DB01023,Felodipine,False
+DB01025,Amlexanox,True
+DB01026,Ketoconazole,True
+DB01028,Methoxyflurane,True
+DB01029,Irbesartan,False
+DB01030,Topotecan,True
+DB01031,Ethinamate,True
+DB01032,Probenecid,True
+DB01034,Cerulenin,True
+DB01035,Procainamide,False
+DB01036,Tolterodine,True
+DB01037,Selegiline,True
+DB01039,Fenofibrate,True
+DB01041,Thalidomide,True
+DB01042,Melphalan,True
+DB01043,Memantine,True
+DB01044,Gatifloxacin,True
+DB01045,Rifampin,True
+DB01046,Lubiprostone,True
+DB01047,Fluocinonide,True
+DB01048,Abacavir,False
+DB01051,Novobiocin,True
+DB01053,Benzylpenicillin,True
+DB01054,Nitrendipine,False
+DB01055,Mimosine,True
+DB01056,Tocainide,False
+DB01057,Echothiophate,True
+DB01058,Praziquantel,True
+DB01059,Norfloxacin,True
+DB01060,Amoxicillin,True
+DB01061,Azlocillin,True
+DB01062,Oxybutynin,True
+DB01063,Acetophenazine,True
+DB01064,Isoprenaline,False
+DB01066,Cefditoren,True
+DB01067,Glipizide,True
+DB01068,Clonazepam,True
+DB01069,Promethazine,False
+DB01070,Dihydrotachysterol,True
+DB01071,Mequitazine,False
+DB01072,Atazanavir,True
+DB01073,Fludarabine,True
+DB01074,Perhexiline,True
+DB01075,Diphenhydramine,False
+DB01076,Atorvastatin,True
+DB01077,Etidronic acid,True
+DB01078,Deslanoside,True
+DB01080,Vigabatrin,True
+DB01081,Diphenoxylate,False
+DB01083,Orlistat,True
+DB01084,Emedastine,False
+DB01085,Pilocarpine,True
+DB01087,Primaquine,True
+DB01088,Iloprost,True
+DB01089,Deserpidine,True
+DB01090,Pentolinium,True
+DB01091,Butenafine,True
+DB01092,Ouabain,True
+DB01093,Dimethyl sulfoxide,True
+DB01094,Hesperetin,True
+DB01096,Oxamniquine,True
+DB01097,Leflunomide,True
+DB01099,Flucytosine,True
+DB01100,Pimozide,True
+DB01102,Arbutamine,False
+DB01103,Quinacrine,True
+DB01104,Sertraline,True
+DB01105,Sibutramine,True
+DB01106,Levocabastine,False
+DB01107,Methyprylon,True
+DB01108,Trilostane,True
+DB01110,Miconazole,True
+DB01111,Colistimethate,True
+DB01112,Cefuroxime,True
+DB01113,Papaverine,True
+DB01114,Chlorpheniramine,False
+DB01115,Nifedipine,False
+DB01116,Trimethaphan,True
+DB01117,Atovaquone,True
+DB01118,Amiodarone,False
+DB01119,Diazoxide,True
+DB01120,Gliclazide,False
+DB01121,Phenacemide,True
+DB01122,Ambenonium,True
+DB01123,Proflavine,True
+DB01124,Tolbutamide,True
+DB01125,Anisindione,True
+DB01126,Dutasteride,True
+DB01127,Econazole,True
+DB01128,Bicalutamide,True
+DB01129,Rabeprazole,False
+DB01130,Prednicarbate,True
+DB01131,Proguanil,True
+DB01132,Pioglitazone,True
+DB01133,Tiludronic acid,True
+DB01135,Doxacurium,True
+DB01136,Carvedilol,False
+DB01137,Levofloxacin,True
+DB01138,Sulfinpyrazone,True
+DB01139,Cefapirin,True
+DB01140,Cefadroxil,True
+DB01141,Micafungin,True
+DB01142,Doxepin,False
+DB01143,Amifostine,True
+DB01144,Diclofenamide,True
+DB01145,Sulfoxone,True
+DB01146,Diphenylpyraline,False
+DB01147,Cloxacillin,True
+DB01148,Flavoxate,True
+DB01149,Nefazodone,True
+DB01150,Cefprozil,True
+DB01153,Sertaconazole,True
+DB01154,Thiamylal,True
+DB01155,Gemifloxacin,True
+DB01156,Bupropion,True
+DB01157,Trimetrexate,True
+DB01158,Bretylium,True
+DB01159,Halothane,True
+DB01160,Dinoprost tromethamine,True
+DB01161,Chloroprocaine,False
+DB01162,Terazosin,True
+DB01164,Calcium chloride,True
+DB01165,Ofloxacin,True
+DB01166,Cilostazol,False
+DB01167,Itraconazole,True
+DB01168,Procarbazine,True
+DB01169,Arsenic trioxide,True
+DB01170,Guanethidine,True
+DB01171,Moclobemide,True
+DB01173,Orphenadrine,False
+DB01174,Phenobarbital,True
+DB01175,Escitalopram,False
+DB01176,Cyclizine,False
+DB01177,Idarubicin,True
+DB01178,Chlormezanone,True
+DB01179,Podofilox,True
+DB01180,Rescinnamine,False
+DB01181,Ifosfamide,False
+DB01182,Propafenone,True
+DB01183,Naloxone,False
+DB01184,Domperidone,True
+DB01185,Fluoxymesterone,True
+DB01186,Pergolide,True
+DB01187,Iophendylate,True
+DB01188,Ciclopirox,True
+DB01189,Desflurane,True
+DB01191,Dexfenfluramine,True
+DB01193,Acebutolol,False
+DB01194,Brinzolamide,True
+DB01195,Flecainide,False
+DB01196,Estramustine,True
+DB01197,Captopril,False
+DB01198,Zopiclone,True
+DB01199,Tubocurarine,True
+DB01200,Bromocriptine,True
+DB01201,Rifapentine,True
+DB01202,Levetiracetam,True
+DB01203,Nadolol,False
+DB01204,Mitoxantrone,True
+DB01205,Flumazenil,True
+DB01206,Lomustine,True
+DB01207,Ridogrel,True
+DB01208,Sparfloxacin,True
+DB01209,Dezocine,False
+DB01210,Levobunolol,False
+DB01212,Ceftriaxone,True
+DB01213,Fomepizole,True
+DB01214,Metipranolol,False
+DB01215,Estazolam,True
+DB01216,Finasteride,True
+DB01217,Anastrozole,True
+DB01218,Halofantrine,True
+DB01219,Dantrolene,True
+DB01220,Rifaximin,True
+DB01221,Ketamine,True
+DB01222,Budesonide,True
+DB01223,Aminophylline,True
+DB01224,Quetiapine,False
+DB01226,Mivacurium,True
+DB01227,Levacetylmethadol,False
+DB01228,Encainide,True
+DB01229,Paclitaxel,False
+DB01231,Diphenidol,True
+DB01232,Saquinavir,True
+DB01233,Metoclopramide,True
+DB01234,Dexamethasone,True
+DB01236,Sevoflurane,True
+DB01237,Bromodiphenhydramine,False
+DB01238,Aripiprazole,True
+DB01239,Chlorprothixene,True
+DB01240,Epoprostenol,True
+DB01241,Gemfibrozil,True
+DB01242,Clomipramine,False
+DB01243,Chloroxine,True
+DB01244,Bepridil,True
+DB01245,Decamethonium,True
+DB01246,Alimemazine,False
+DB01247,Isocarboxazid,True
+DB01248,Docetaxel,False
+DB01249,Iodixanol,True
+DB01250,Olsalazine,True
+DB01251,Gliquidone,True
+DB01252,Mitiglinide,True
+DB01253,Ergometrine,True
+DB01254,Dasatinib,False
+DB01255,Lisdexamfetamine,True
+DB01256,Retapamulin,True
+DB01259,Lapatinib,True
+DB01260,Desonide,True
+DB01261,Sitagliptin,True
+DB01262,Decitabine,True
+DB01263,Posaconazole,True
+DB01264,Darunavir,True
+DB01265,Telbivudine,True
+DB01267,Paliperidone,True
+DB01268,Sunitinib,True
+DB01273,Varenicline,True
+DB01274,Arformoterol,True
+DB01275,Hydralazine,True
+DB01280,Nelarabine,True
+DB01282,Carbetocin,True
+DB01284,Tetracosactide,True
+DB01288,Fenoterol,True
+DB01289,Glisoxepide,True
+DB01291,Pirbuterol,True
+DB01294,Bismuth subsalicylate,True
+DB01295,Bevantolol,False
+DB01297,Practolol,False
+DB01298,Sulfacytine,True
+DB01299,Sulfadoxine,True
+DB01303,Oxtriphylline,True
+DB01319,Fosamprenavir,True
+DB01326,Cefamandole,True
+DB01327,Cefazolin,True
+DB01328,Cefonicid,True
+DB01329,Cefoperazone,True
+DB01330,Cefotetan,True
+DB01331,Cefoxitin,True
+DB01332,Ceftizoxime,True
+DB01333,Cefradine,True
+DB01336,Metocurine,True
+DB01337,Pancuronium,True
+DB01338,Pipecuronium,True
+DB01339,Vecuronium,True
+DB01340,Cilazapril,False
+DB01346,Quinidine barbiturate,True
+DB01348,Spirapril,False
+DB01349,Tasosartan,True
+DB01351,Amobarbital,True
+DB01352,Aprobarbital,True
+DB01353,Butobarbital,True
+DB01354,Heptabarbital,True
+DB01355,Hexobarbital,True
+DB01356,Lithium cation,True
+DB01357,Mestranol,True
+DB01359,Penbutolol,False
+DB01362,Iohexol,True
+DB01364,Ephedrine,True
+DB01365,Mephentermine,True
+DB01366,Procaterol,True
+DB01367,Rasagiline,True
+DB01369,Quinupristin,True
+DB01370,Aluminium,True
+DB01377,Magnesium oxide,True
+DB01380,Cortisone acetate,True
+DB01382,Glymidine,True
+DB01384,Paramethasone,True
+DB01390,Sodium bicarbonate,True
+DB01392,Yohimbine,True
+DB01393,Bezafibrate,True
+DB01394,Colchicine,True
+DB01395,Drospirenone,True
+DB01396,Digitoxin,True
+DB01397,Magnesium salicylate,False
+DB01400,Neostigmine,True
+DB01401,Choline magnesium trisalicylate,False
+DB01403,Methotrimeprazine,True
+DB01406,Danazol,True
+DB01407,Clenbuterol,True
+DB01408,Bambuterol,True
+DB01409,Tiotropium,True
+DB01410,Ciclesonide,True
+DB01411,Pranlukast,True
+DB01413,Cefepime,True
+DB01414,Cefacetrile,True
+DB01415,Ceftibuten,True
+DB01416,Cefpodoxime,True
+DB01419,Antrafenine,False
+DB01420,Testosterone propionate,True
+DB01422,Nitroxoline,True
+DB01423,Stepronin,True
+DB01424,Aminophenazone,True
+DB01425,Alizapride,True
+DB01426,Ajmaline,True
+DB01427,Amrinone,True
+DB01428,Oxybenzone,True
+DB01429,Aprindine,True
+DB01430,Almitrine,True
+DB01431,Allylestrenol,True
+DB01436,Alfacalcidol,True
+DB01437,Glutethimide,True
+DB01438,Phenazopyridine,True
+DB01440,gamma-Hydroxybutyric acid,True
+DB01463,Fencamfamin,True
+DB01466,Ethylmorphine,False
+DB01482,Fenethylline,True
+DB01489,Camazepam,True
+DB01495,Dichloralphenazone,True
+DB01501,Difenoxin,True
+DB01511,Delorazepam,True
+DB01544,Flunitrazepam,True
+DB01545,Ethyl loflazepate,True
+DB01550,Fenproporex,True
+DB01551,Dihydrocodeine,True
+DB01553,Cloxazolam,True
+DB01558,Bromazepam,True
+DB01559,Clotiazepam,True
+DB01563,Chloral hydrate,True
+DB01567,Fludiazepam,True
+DB01574,Attapulgite,True
+DB01575,Kaolin,True
+DB01576,Dextroamphetamine,True
+DB01577,Metamfetamine,True
+DB01578,Metrizamide,True
+DB01579,Phendimetrazine,True
+DB01580,Oxprenolol,False
+DB01581,Sulfamerazine,True
+DB01582,Sulfamethazine,True
+DB01583,Liotrix,True
+DB01586,Ursodeoxycholic acid,True
+DB01587,Ketazolam,True
+DB01588,Prazepam,True
+DB01589,Quazepam,True
+DB01590,Everolimus,True
+DB01591,Solifenacin,True
+DB01594,Cinolazepam,True
+DB01595,Nitrazepam,True
+DB01597,Cilastatin,True
+DB01598,Imipenem,True
+DB01599,Probucol,True
+DB01600,Tiaprofenic acid,False
+DB01601,Lopinavir,True
+DB01602,Bacampicillin,True
+DB01603,Meticillin,True
+DB01604,Pivampicillin,True
+DB01605,Pivmecillinam,True
+DB01606,Tazobactam,True
+DB01607,Ticarcillin,True
+DB01608,Periciazine,True
+DB01609,Deferasirox,True
+DB01610,Valganciclovir,True
+DB01611,Hydroxychloroquine,True
+DB01612,Amyl Nitrite,True
+DB01613,Erythrityl tetranitrate,True
+DB01614,Acepromazine,True
+DB01615,Aceprometazine,True
+DB01616,Alverine,True
+DB01618,Molindone,True
+DB01619,Phenindamine,False
+DB01620,Pheniramine,False
+DB01621,Pipotiazine,True
+DB01622,Thioproperazine,True
+DB01623,Thiothixene,True
+DB01624,Zuclopenthixol,True
+DB01625,Isopropamide,True
+DB01626,Pargyline,True
+DB01656,Roflumilast,True
+DB01685,Topiroxostat,True
+DB01708,Prasterone,True
+DB01718,Cetrimonium,True
+DB01744,Camphor,True
+DB01764,Dalfopristin,True
+DB01878,Benzophenone,True
+DB01914,D-glucose,True
+DB01987,Cocarboxylase,True
+DB06725,Lornoxicam,False
+DB02187,Equilin,True
+DB02300,Calcipotriol,True
+DB02325,Isopropyl alcohol,True
+DB02513,Thymol,True
+DB02546,Vorinostat,True
+DB02638,Terlipressin,True
+DB02703,Fusidic acid,True
+DB02709,Resveratrol,True
+DB02772,Sucrose,True
+DB03085,Glycolic acid,True
+DB08806,Roxatidine acetate,False
+DB03209,Oteracil,True
+DB03310,Glutathione disulfide,True
+DB03585,Oxyphenbutazone,True
+DB03614,Mecobalamin,True
+DB03615,Ribostamycin,True
+DB03619,Deoxycholic acid,True
+DB03651,Picric acid,True
+DB03754,Tromethamine,True
+DB03756,Doconexent,True
+DB03793,Benzoic acid,True
+DB06697,Artemether,False
+DB03852,Eucalyptol,True
+DB04173,Fructose,True
+DB04209,Dequalinium,True
+DB04221,Didecyldimethylammonium,True
+DB04224,Oleic Acid,True
+DB04339,Carbocisteine,True
+DB04398,Lactic acid,True
+DB04552,Niflumic acid,True
+DB04570,Latamoxef,True
+DB04571,Trioxsalen,True
+DB04572,Thiotepa,True
+DB04575,Quinestrol,True
+DB04576,Fleroxacin,True
+DB04711,Iodipamide,True
+DB04743,Nimesulide,True
+DB04786,Suramin,True
+DB04789,5-methyltetrahydrofolic acid,True
+DB04794,Bifonazole,True
+DB04815,Clioquinol,True
+DB04835,Maraviroc,True
+DB04837,Clofedanol,True
+DB04838,Cyclandelate,True
+DB04839,Cyproterone acetate,True
+DB04840,Debrisoquine,True
+DB04841,Flunarizine,False
+DB04842,Fluspirilene,True
+DB04843,Mepenzolate,True
+DB04844,Tetrabenazine,True
+DB04845,Ixabepilone,True
+DB04846,Celiprolol,True
+DB04854,Febuxostat,True
+DB04855,Dronedarone,True
+DB04861,Nebivolol,False
+DB04865,Omacetaxine mepesuccinate,True
+DB04868,Nilotinib,False
+DB04871,Lorcaserin,True
+DB04876,Vildagliptin,True
+DB04877,Voacamine,True
+DB04878,Voglibose,True
+DB04880,Enoximone,True
+DB04890,Bepotastine,False
+DB04894,Vapreotide,True
+DB04896,Milnacipran,True
+DB04908,Flibanserin,True
+DB04911,Oritavancin,True
+DB04918,Ceftobiprole,True
+DB04920,Clevidipine,True
+DB04930,Permethrin,True
+DB04931,Afamelanotide,True
+DB04938,Ospemifene,True
+DB04942,Tamibarotene,True
+DB04946,Iloperidone,True
+DB04948,Lofexidine,True
+DB04951,Pirfenidone,True
+DB04953,Ezogabine,True
+DB04967,Lucanthone,True
+DB05013,Ingenol mebutate,True
+DB05015,Belinostat,True
+DB05016,Ataluren,True
+DB05018,Migalastat,True
+DB05039,Indacaterol,True
+DB05109,Trabectedin,True
+DB05219,Crisaborole,True
+DB05239,Cobimetinib,True
+DB05245,Silver sulfadiazine,True
+DB05246,Methsuximide,True
+DB05260,Gallium nitrate,True
+DB05265,Ecabet,True
+DB05266,Ibudilast,True
+DB05271,Rotigotine,True
+DB05273,Samarium (153Sm) lexidronam,True
+DB05294,Vandetanib,True
+DB05316,Pimavanserin,True
+DB05351,Dexlansoprazole,True
+DB05381,Histamine,True
+DB05382,Iodine,True
+DB05521,Telaprevir,True
+DB05528,Mipomersen,True
+DB05541,Brivaracetam,True
+DB05630,Sodium stibogluconate,True
+DB05676,Apremilast,True
+DB05812,Abiraterone,True
+DB05990,Obeticholic acid,True
+DB06016,Cariprazine,True
+DB06144,Sertindole,True
+DB06145,Spiramycin,True
+DB06147,Sulfathiazole,True
+DB06148,Mianserin,True
+DB06150,Sulfadimethoxine,True
+DB06151,Acetylcysteine,True
+DB06152,Nylidrin,True
+DB06153,Pizotifen,True
+DB06154,Pentaerythritol tetranitrate,True
+DB06155,Rimonabant,True
+DB06176,Romidepsin,True
+DB06193,Pixantrone,True
+DB06196,Icatibant,True
+DB06201,Rufinamide,True
+DB06202,Lasofoxifene,True
+DB06203,Alogliptin,True
+DB06204,Tapentadol,True
+DB06206,Sugammadex,True
+DB06207,Silodosin,True
+DB06209,Prasugrel,True
+DB06210,Eltrombopag,True
+DB06211,Doripenem,True
+DB06212,Tolvaptan,True
+DB06213,Regadenoson,True
+DB06216,Asenapine,True
+DB06217,Vernakalant,True
+DB06218,Lacosamide,True
+DB06219,Dalbavancin,True
+DB06228,Rivaroxaban,True
+DB06237,Avanafil,True
+DB06243,Eflornithine,True
+DB06255,Incadronic acid,True
+DB06260,Aviptadil,True
+DB06261,Hexaminolevulinate,True
+DB06262,Droxidopa,True
+DB06263,Amrubicin,True
+DB06264,Tolperisone,True
+DB06267,Udenafil,True
+DB06268,Sitaxentan,True
+DB06274,Alvimopan,False
+DB06282,Levocetirizine,False
+DB06287,Temsirolimus,True
+DB06288,Amisulpride,True
+DB06290,Simeprevir,True
+DB06292,Dapagliflozin,True
+DB06335,Saxagliptin,True
+DB06401,Bazedoxifene,True
+DB06402,Telavancin,True
+DB06403,Ambrisentan,True
+DB06410,Doxercalciferol,True
+DB06412,Oxymetholone,True
+DB06413,Armodafinil,True
+DB06414,Etravirine,True
+DB06441,Cangrelor,True
+DB06480,Prucalopride,True
+DB06589,Pazopanib,True
+DB06590,Ceftaroline fosamil,True
+DB06594,Agomelatine,True
+DB06595,Midostaurin,True
+DB06603,Panobinostat,True
+DB06605,Apixaban,True
+DB06614,Peramivir,True
+DB06616,Bosutinib,False
+DB06623,Flupirtine,True
+DB06626,Axitinib,True
+DB06636,Isavuconazonium,True
+DB06637,Dalfampridine,True
+DB06654,Safinamide,True
+DB06663,Pasireotide,True
+DB06684,Vilazodone,True
+DB06689,Ethanolamine oleate,True
+DB06690,Nitrous oxide,True
+DB06691,Mepyramine,False
+DB06694,Xylometazoline,True
+DB06695,Dabigatran etexilate,True
+DB06698,Betahistine,False
+DB06699,Degarelix,True
+DB06701,Dexmethylphenidate,True
+DB06702,Fesoterodine,True
+DB06703,Gadobutrol,True
+DB06704,Iobenguane,True
+DB06705,Gadofosveset trisodium,True
+DB06706,Isometheptene,True
+DB06707,Levonordefrin,True
+DB06708,Lumefantrine,True
+DB06709,Methacholine,True
+DB06710,Methyltestosterone,True
+DB06711,Naphazoline,True
+DB06712,Nilvadipine,True
+DB06713,Norelgestromin,True
+DB06714,Propylhexedrine,True
+DB06715,Potassium Iodide,True
+DB06716,Fospropofol,True
+DB06717,Fosaprepitant,True
+DB06718,Stanozolol,True
+DB06723,Aluminum hydroxide,True
+DB06724,Calcium carbonate,True
+DB06729,Sulfaphenazole,True
+DB06730,Gestodene,True
+DB06736,Aceclofenac,True
+DB06737,Zaltoprofen,True
+DB06739,Seratrodast,True
+DB06742,Ambroxol,True
+DB06751,Drotaverine,True
+DB06755,Beta carotene,True
+DB06756,Betaine,True
+DB06757,Manganese cation,True
+DB06764,Tetryzoline,True
+DB06766,Alcaftadine,False
+DB06767,Ammonium chloride,True
+DB06768,Ammonium lactate,True
+DB06769,Bendamustine,True
+DB06770,Benzyl alcohol,True
+DB06771,Besifloxacin,True
+DB06772,Cabazitaxel,True
+DB06774,Capsaicin,True
+DB06775,Carglumic acid,True
+DB06778,Cupric sulfate,True
+DB06781,Difluprednate,True
+DB06782,Dimercaprol,True
+DB06783,Prussian blue,True
+DB06784,Gallium citrate Ga-67,True
+DB06785,Ganirelix,True
+DB06786,Halcinonide,True
+DB06787,Hexocyclium,True
+DB06788,Histrelin,True
+DB06789,Hydroxyprogesterone caproate,True
+DB06791,Lanreotide,True
+DB06792,Lanthanum carbonate,True
+DB06793,Levopropoxyphene,True
+DB06794,Lodoxamide,True
+DB06795,Mafenide,True
+DB06796,Mangafodipir,True
+DB06799,Methenamine,True
+DB06800,Methylnaltrexone,True
+DB06801,Monoctanoin,True
+DB06803,Niclosamide,True
+DB06804,Nonoxynol-9,True
+DB06809,Plerixafor,True
+DB06810,Plicamycin,True
+DB06811,Polidocanol,True
+DB06813,Pralatrexate,True
+DB06815,Pyrithione,True
+DB06816,Pyrvinium,True
+DB06817,Raltegravir,True
+DB06819,Phenylbutyric acid,True
+DB06820,Sulconazole,True
+DB06823,Tiopronin,True
+DB06824,Triethylenetetramine,True
+DB06825,Triptorelin,True
+DB06826,Unoprostone,True
+DB06827,Viomycin,True
+DB07615,Tranilast,True
+DB07776,Flavone,True
+DB08439,Parecoxib,True
+DB08604,Triclosan,True
+DB08792,Diloxanide,True
+DB08795,Azidocillin,True
+DB08796,Pipazethate,True
+DB08797,Salicylamide,True
+DB08798,Sulfamoxole,True
+DB08799,Antazoline,False
+DB08800,Chloropyramine,False
+DB08801,Dimetindene,False
+DB08802,Isothipendyl,False
+DB08803,Tymazoline,True
+DB08804,Nandrolone decanoate,True
+DB08807,Bopindolol,False
+DB08808,Bupranolol,False
+DB08809,Dichloroacetic acid,True
+DB08810,Cinitapride,True
+DB08811,Tofisopam,True
+DB08814,Triflusal,True
+DB08815,Lurasidone,True
+DB08816,Ticagrelor,True
+DB08818,Hyaluronic acid,True
+DB08819,Tafluprost,True
+DB08820,Ivacaftor,True
+DB08822,Azilsartan medoxomil,True
+DB08823,Spinosad,True
+DB08824,Ioflupane I-123,True
+DB08826,Deferiprone,True
+DB08827,Lomitapide,True
+DB08828,Vismodegib,True
+DB08834,Tauroursodeoxycholic acid,True
+DB08835,Spaglumic acid,True
+DB08842,Acetylcarnitine,True
+DB08847,Hydroxyproline,True
+DB08860,Pitavastatin,True
+DB08864,Rilpivirine,True
+DB08865,Crizotinib,True
+DB08867,Ulipristal,True
+DB08868,Fingolimod,True
+DB08869,Tesamorelin,True
+DB08871,Eribulin,True
+DB08872,Gabapentin enacarbil,True
+DB08873,Boceprevir,True
+DB08874,Fidaxomicin,True
+DB08875,Cabozantinib,True
+DB08877,Ruxolitinib,True
+DB08880,Teriflunomide,True
+DB08881,Vemurafenib,True
+DB08882,Linagliptin,True
+DB08883,Perampanel,True
+DB08884,Gadoxetic acid,True
+DB08887,Icosapent ethyl,True
+DB08889,Carfilzomib,True
+DB08890,Linaclotide,True
+DB08893,Mirabegron,True
+DB08895,Tofacitinib,True
+DB08896,Regorafenib,True
+DB08897,Aclidinium,True
+DB08899,Enzalutamide,True
+DB08901,Ponatinib,False
+DB08903,Bedaquiline,True
+DB08905,Formestane,True
+DB08906,Fluticasone furoate,True
+DB08907,Canagliflozin,True
+DB08908,Dimethyl fumarate,True
+DB08909,Glycerol phenylbutyrate,True
+DB08910,Pomalidomide,True
+DB08911,Trametinib,True
+DB08912,Dabrafenib,True
+DB08913,Radium Ra 223 dichloride,True
+DB08916,Afatinib,True
+DB08918,Levomilnacipran,True
+DB08922,Perospirone,True
+DB08924,Amfecloral,True
+DB08928,Arsthinol,True
+DB08930,Dolutegravir,True
+DB08931,Riociguat,True
+DB08932,Macitentan,True
+DB08933,Luliconazole,True
+DB08934,Sofosbuvir,True
+DB08936,Chlorcyclizine,False
+DB08938,Magaldrate,True
+DB08941,Isoxsuprine,True
+DB08943,Isoconazole,True
+DB08944,Isoaminile,True
+DB08946,Iopanoic acid,True
+DB08947,Iopamidol,True
+DB08949,Inositol nicotinate,True
+DB08954,Ifenprodil,True
+DB08957,Hexoprenaline,True
+DB08958,Hexetidine,True
+DB08964,Gemeprost,True
+DB08965,Fusafungine,True
+DB08966,Fursultiamine,True
+DB08967,Dimetotiazine,True
+DB08968,Fominoben,True
+DB08970,Fluprednidene,True
+DB08971,Fluocortolone,True
+DB08973,Fluclorolone acetonide,True
+DB08974,Flubendazole,True
+DB08976,Floctafenine,True
+DB08979,Fenspiride,True
+DB08981,Fenbufen,True
+DB08982,Etozoline,True
+DB08983,Etofibrate,True
+DB08984,Etofenamate,True
+DB08987,Etidocaine,True
+DB08990,Eprazinone,True
+DB08991,Epirizole,True
+DB08992,Eperisone,True
+DB08993,Enviomycin,True
+DB08994,Ditazole,True
+DB08995,Diosmin,True
+DB08996,Dimetacrine,True
+DB08998,Demexiptiline,True
+DB09000,Cyamemazine,True
+DB09002,Cloperastine,True
+DB09003,Clocapramine,True
+DB09006,Clinofibrate,True
+DB09008,Cefaloridine,True
+DB09009,Articaine,True
+DB09012,Carbazochrome,True
+DB09014,Captodiame,True
+DB09015,Canrenoic acid,True
+DB09016,Butriptyline,True
+DB09017,Brotizolam,True
+DB09018,Bromopride,True
+DB09019,Bromhexine,True
+DB09020,Bisacodyl,True
+DB09021,Benzoctamine,True
+DB09026,Aliskiren,True
+DB09027,Ledipasvir,True
+DB09028,Cytisine,True
+DB09030,Vorapaxar,True
+DB09031,Miltefosine,True
+DB09034,Suvorexant,True
+DB09038,Empagliflozin,True
+DB09039,Eliglustat,True
+DB09040,Efinaconazole,True
+DB09041,Tavaborole,True
+DB09042,Tedizolid phosphate,True
+DB09047,Finafloxacin,True
+DB09048,Netupitant,True
+DB09049,Naloxegol,True
+DB09050,Ceftolozane,True
+DB09053,Ibrutinib,True
+DB09054,Idelalisib,True
+DB09055,Acipimox,True
+DB09060,Avibactam,True
+DB09061,Cannabidiol,True
+DB09063,Ceritinib,True
+DB09065,Cobicistat,True
+DB09067,Corticorelin ovine triflutate,True
+DB09068,Vortioxetine,True
+DB09069,Trimetazidine,True
+DB09070,Tibolone,True
+DB09071,Tasimelteon,True
+DB09072,Sodium oxybate,True
+DB09073,Palbociclib,True
+DB09074,Olaparib,True
+DB09075,Edoxaban,True
+DB09076,Umeclidinium,True
+DB09078,Lenvatinib,True
+DB09079,Nintedanib,True
+DB09080,Olodaterol,True
+DB09081,Idebenone,True
+DB09082,Vilanterol,True
+DB09083,Ivabradine,True
+DB09084,Benzydamine,True
+DB09085,Tetracaine,True
+DB09086,Eugenol,True
+DB09087,Potassium alum,True
+DB09089,Trimebutine,True
+DB09090,Pinaverium,True
+DB09091,Tixocortol,True
+DB09092,Xanthinol,True
+DB09093,Chlortetracycline,True
+DB09094,Podophyllin,True
+DB09095,Difluocortolone,True
+DB09096,Benzoyl peroxide,True
+DB09097,Quinagolide,True
+DB09099,Somatostatin,True
+DB09101,Elvitegravir,True
+DB09102,Daclatasvir,True
+DB09104,Magnesium hydroxide,True
+DB09110,Coenzyme M,True
+DB09112,Nitrous acid,True
+DB09114,Colfosceril palmitate,True
+DB09115,Diiodohydroxyquinoline,True
+DB09116,Calcium carbimide,True
+DB09117,Paraldehyde,True
+DB09118,Stiripentol,True
+DB09119,Eslicarbazepine acetate,True
+DB09120,Zucapsaicin,True
+DB09123,Dienogest,True
+DB09124,Medrogestone,True
+DB09125,Potassium citrate,True
+DB09128,Brexpiprazole,True
+DB09129,Chromic chloride,True
+DB09130,Copper,True
+DB09131,Cupric Chloride,True
+DB09132,Gadoteric acid,True
+DB09133,Iothalamic acid,True
+DB09134,Ioversol,True
+DB09135,Ioxilan,True
+DB09136,Isosulfan blue,True
+DB09137,Technetium Tc-99m mebrofenin,True
+DB09138,Technetium Tc-99m medronate,True
+DB09139,Technetium Tc-99m oxidronate,True
+DB09140,Oxygen,True
+DB09142,Sincalide,True
+DB09143,Sonidegib,True
+DB09144,Uridine triacetate,True
+DB09145,Water,True
+DB09146,Iron sucrose,True
+DB09147,Ferric pyrophosphate,True
+DB09148,Florbetaben F-18,True
+DB09149,Florbetapir F-18,True
+DB09151,Flutemetamol (18F),True
+DB09152,Nitrogen,True
+DB09153,Sodium chloride,True
+DB09154,Sodium citrate,True
+DB09155,Helium,True
+DB09156,Iopromide,True
+DB09157,Carbon dioxide,True
+DB09158,Trypan blue free acid,True
+DB09160,Technetium Tc-99m tetrofosmin,True
+DB09161,Technetium Tc-99m sestamibi,True
+DB09164,Technetium Tc-99m disofenin,True
+DB09165,Technetium Tc-99m pyrophosphate,True
+DB09166,Etizolam,True
+DB09167,Dosulepin,True
+DB09183,Dasabuvir,True
+DB09185,Viloxazine,True
+DB09195,Lorpiprazole,True
+DB09197,Mepiprazole,True
+DB09198,Lobeglitazone,True
+DB09204,Arotinolol,True
+DB09205,Moxisylyte,True
+DB09209,Pholcodine,True
+DB09210,Piracetam,True
+DB09211,Limaprost,True
+DB09212,Loxoprofen,True
+DB09213,Dexibuprofen,True
+DB09214,Dexketoprofen,True
+DB09215,Droxicam,True
+DB09216,Tolfenamic acid,True
+DB09218,Clonixin,True
+DB09219,Bisoxatin,True
+DB09220,Nicorandil,True
+DB09221,Polaprezinc,True
+DB09223,Blonanserin,True
+DB09224,Melperone,True
+DB09225,Zotepine,True
+DB09227,Barnidipine,True
+DB09229,Aranidipine,True
+DB09230,Azelnidipine,True
+DB09231,Benidipine,True
+DB09232,Cilnidipine,True
+DB09235,Efonidipine,True
+DB09236,Lacidipine,True
+DB09237,Levamlodipine,True
+DB09238,Manidipine,True
+DB09241,Methylene blue,True
+DB09242,Moxonidine,True
+DB09244,Pirlindole,True
+DB09245,Toloxatone,True
+DB09256,Tegafur,True
+DB09257,Gimeracil,True
+DB09262,Imidafenacin,True
+DB09265,Lixisenatide,True
+DB09267,Strontium ranelate,True
+DB09268,Picosulfuric acid,True
+DB09269,Phenylacetic acid,True
+DB09270,Ubidecarenone,True
+DB09272,Eluxadoline,True
+DB09273,Doxofylline,True
+DB09274,Artesunate,True
+DB09275,Bismuth subcitrate potassium,True
+DB09276,Sodium aurothiomalate,True
+DB09277,Choline C 11,True
+DB09278,Activated charcoal,True
+DB09279,Fimasartan,True
+DB09280,Lumacaftor,True
+DB09281,Magnesium trisilicate,True
+DB09282,Molsidomine,True
+DB09283,Trapidil,True
+DB09284,Imolamine,True
+DB09285,Morniflumate,True
+DB09286,Pipamperone,True
+DB09288,Propacetamol,True
+DB09289,Tianeptine,True
+DB09290,Ramosetron,True
+DB09291,Rolapitant,True
+DB09292,Sacubitril,True
+DB09293,Iodide I-131,True
+DB09295,Talniflumate,True
+DB09296,Ombitasvir,True
+DB09297,Paritaprevir,True
+DB09299,Tenofovir alafenamide,True
+DB09300,Butylscopolamine,True
+DB09304,Setiptiline,True
+DB09313,Ioxaglic acid,True
+DB09314,Technetium Tc-99m pertechnetate,True
+DB09315,Xenon-133,True
+DB09316,Thallous chloride,True
+DB09320,Procaine benzylpenicillin,True
+DB09321,Zinc oxide,True
+DB09322,Zinc sulfate,True
+DB09324,Sulbactam,True
+DB09325,Sodium fluoride,True
+DB09326,Ammonia N-13,True
+DB09327,Tegafur-uracil,True
+DB09330,Osimertinib,True
+DB09332,Kappadione,True
+DB09333,Iopodic acid,True
+DB09338,Mersalyl,True
+DB09340,Tyropanoic acid,True
+DB09342,Propoxycaine,True
+DB09343,Tipiracil,True
+DB09345,Pramocaine,True
+DB09346,Metrizoic acid,True
+DB09347,Acetrizoic acid,True
+DB09348,Propiolactone,True
+DB09350,Piperonyl butoxide,True
+DB09351,Levobetaxolol,True
+DB09352,Hydroxyamphetamine,True
+DB09353,Octasulfur,True
+DB09357,Dexpanthenol,True
+DB09374,Indocyanine green acid form,True
+DB09376,Lapyrium,True
+DB09389,Norgestrel,True
+DB09394,Phosphoric acid,True
+DB09395,Sodium acetate,True
+DB09397,Technetium Tc-99m sulfur colloid,True
+DB09398,Fluoride ion F-18,True
+DB09407,Magnesium chloride,True
+DB09409,Magnesium acetate tetrahydrate,True
+DB09413,Monopotassium phosphate,True
+DB09414,Dipotassium phosphate,True
+DB09418,Potassium perchlorate,True
+DB09419,Xylose,True
+DB09420,Iodide I-123,True
+DB09421,Protirelin,True
+DB09425,Indium In-111 pentetate,True
+DB09449,"Sodium phosphate, monobasic",True
+DB09459,L-tartaric acid,True
+DB09460,Sodium carbonate,True
+DB09462,Glycerin,True
+DB09472,Sodium sulfate,True
+DB09473,Indium In-111 oxyquinoline,True
+DB09477,Enalaprilat,True
+DB09479,Rubidium Rb-82,True
+DB09481,Magnesium carbonate,True
+DB09488,Acrivastine,False
+DB09490,Indium In-111 chloride,True
+DB09494,Cetyl alcohol,True
+DB09495,Avobenzone,True
+DB09496,Octinoxate,True
+DB09498,Strontium chloride Sr-89,True
+DB09499,Thiosulfuric acid,True
+DB09502,Fludeoxyglucose (18F),True
+DB09510,Urea C-13,True
+DB09513,Urea C-14,True
+DB09516,Mequinol,True
+DB09517,Sodium ferric gluconate complex,True
+DB09526,Hydroquinone,True
+DB09534,Ecamsule,True
+DB09536,Titanium dioxide,True
+DB09543,Methyl salicylate,True
+DB09546,Iobenguane sulfate I-123,True
+DB09552,Thonzonium,True
+DB09555,Dexchlorpheniramine maleate,True
+DB09561,Sodium glycerophosphate,True
+DB09563,Choline C-11,True
+DB09570,Ixazomib,True
+DB09571,Levmetamfetamine,True
+DB11068,Selenic acid,True
+DB11071,Phenyl salicylate,True
+DB11072,Hydrogen fluoride,True
+DB11073,Cetylpyridinium,True
+DB11079,Trolamine salicylate,True
+DB11080,Silver nitrate,True
+DB11081,Aluminum chloride,True
+DB11085,Resorcinol,True
+DB11090,Potassium nitrate,True
+DB11091,Hydrogen peroxide,True
+DB11092,Stannous fluoride,True
+DB11093,Calcium citrate,True
+DB11098,Potassium bicarbonate,True
+DB11102,N-acetyltyrosine,True
+DB11104,Sulfur hexafluoride,True
+DB11107,Potassium bitartrate,True
+DB11109,Chlorine,True
+DB11110,Magnesium citrate,True
+DB11115,Ensulizole,True
+DB11119,Sodium iodide,True
+DB11121,Chloroxylenol,True
+DB11123,Hypochlorite,True
+DB11125,Benzethonium,True
+DB11126,Calcium gluconate,True
+DB11127,Selenious acid,True
+DB11128,Ammonium molybdate,True
+DB11129,Carbamide peroxide,True
+DB11132,Silicon dioxide,True
+DB11134,Cupric oxide,True
+DB11135,Selenium,True
+DB11136,Chromium,True
+DB11137,Molybdenum,True
+DB11140,Chromium Cr-51,True
+DB11142,Selenomethionine,True
+DB11145,Oxyquinoline,True
+DB11148,Butamben,True
+DB11150,Barium sulfate,True
+DB11151,Sodium hydroxide,True
+DB11153,Potassium hydroxide,True
+DB11154,Zinc citrate,True
+DB11155,Triclocarban,True
+DB11156,Pyrantel,True
+DB11157,Anthralin,True
+DB11159,Sodium sulfide,True
+DB11160,Phenyltoloxamine,False
+DB11164,Bicisate,True
+DB11168,Calcium threonate,True
+DB11171,Ferric sulfate,True
+DB11175,Zinc picolinate,True
+DB11176,Zeaxanthin,True
+DB11180,Tetrofosmin,True
+DB11183,Light green SF yellowish,True
+DB11184,Oftasceine,True
+DB11185,Sulisobenzone,True
+DB11186,Pentoxyverine,True
+DB11189,Magnesium glycinate,True
+DB11190,Pantethine,True
+DB11203,Boron,True
+DB11210,Ferrous bisglycinate,True
+DB11217,Arbutin,True
+DB11219,Enzacamene,True
+DB11231,Lycopene,True
+DB11235,Thonzylamine,False
+DB11239,Aluminum sulfate,True
+DB11244,Cyclomethicone 5,True
+DB11246,Copper gluconate,True
+DB11248,Zinc gluconate,True
+DB11254,Hexylresorcinol,True
+DB11255,Chromium picolinate,True
+DB11256,Levomefolic acid,True
+DB11257,Fluoride ion,True
+DB11259,Diosmetin,True
+DB11260,Diacetyl benzoyl lathyrol,True
+DB11263,Polydatin,True
+DB11268,Protocatechualdehyde,True
+DB11272,Methyl undecenoyl leucinate,True
+DB11279,Brilliant green cation,True
+DB11296,Prezatide,True
+DB11299,Vanillyl butyl ether,True
+DB11304,Phenoxyethanol,True
+DB11315,Methscopolamine,True
+DB11323,Glycol salicylate,True
+DB11326,Boric acid,True
+DB11336,Kinetin,True
+DB11340,Ubiquinol,True
+DB11342,Aluminum oxide,True
+DB11343,Silanol,True
+DB11348,Calcium Phosphate,True
+DB11359,Guaiacol,True
+DB11362,Selexipag,True
+DB11363,Alectinib,True
+DB11364,Pidotimod,True
+DB11560,Lesinurad,True
+DB11570,Padimate O,True
+DB11573,Aluminum chlorohydrate,True
+DB11574,Elbasvir,True
+DB11575,Grazoprevir,True
+DB11577,Indigotindisulfonic acid,True
+DB11581,Venetoclax,True
+DB11582,Thiocolchicoside,True
+DB11583,Cetalkonium,True
+DB11586,Asunaprevir,True
+DB11588,Carbon monoxide,True
+DB11589,Neon,True
+DB11590,Thimerosal,True
+DB11591,Bilastine,False
+DB11594,Domiphen,True
+DB11596,Levoleucovorin,True
+DB11602,Hydroxyethyl cellulose,True
+DB11609,Normethadone,True
+DB11610,Oxilofrine,True
+DB11611,Lifitegrast,True
+DB11613,Velpatasvir,True
+DB11614,Rupatadine,False
+DB11619,Gestrinone,True
+DB11630,Temoporfin,True
+DB11632,Opicapone,True
+DB11633,Isavuconazole,True
+DB11636,Nomegestrol,True
+DB11637,Delamanid,True
+DB11640,Amifampridine,True
+DB11641,Vinflunine,True
+DB11642,Pitolisant,True
+DB11644,Tafamidis,True
+DB11660,Latanoprostene bunod,True
+DB11691,Naldemedine,True
+DB11699,Tropisetron,True
+DB11703,Acalabrutinib,True
+DB11730,Ribociclib,True
+DB11737,Icotinib,True
+DB11793,Niraparib,True
+DB11817,Baricitinib,True
+DB11828,Neratinib,True
+DB11915,Valbenazine,True
+DB11921,Deflazacort,True
+DB11943,Delafloxacin,True
+DB11989,Benznidazole,True
+DB11994,Diacerein,True
+DB12001,Abemaciclib,True
+DB12026,Voxilaprevir,True
+DB12070,Letermovir,True
+DB12095,Telotristat ethyl,True
+DB12107,Vaborbactam,True
+DB12161,Deutetrabenazine,True
+DB12243,Edaravone,True
+DB12267,Brigatinib,True
+DB12278,Propiverine,True
+DB12328,Cantharidin,True
+DB12332,Rucaparib,True
+DB12364,Betrixaban,True
+DB12483,Copanlisib,True
+DB12532,Oxetacaine,True
+DB12598,Nafamostat,True
+DB12783,Benserazide,True
+DB12834,Secnidazole,True
+DB12865,Etelcalcetide,True
+DB12924,Ozenoxacin,True
+DB12965,Silver,True
+DB12982,Silicon,True
+DB13025,Tiapride,True
+DB13092,Meclocycline,True
+DB13139,Levosalbutamol,True
+DB13142,Calcium glubionate anhydrous,True
+DB13145,Nedaplatin,True
+DB13146,Fluciclovine (18F),True
+DB13153,Levomenol,True
+DB13154,Parachlorophenol,True
+DB13155,Esculin,True
+DB13156,Inosine pranobex,True
+DB13157,Sodium lauryl sulfoacetate,True
+DB13158,Clobetasone,True
+DB13164,Olmutinib,True
+DB13165,Ripasudil,True
+DB13167,Alclofenac,True
+DB13170,Plecanatide,True
+DB13179,Troleandomycin,True
+DB13180,Gluconic Acid,True
+DB13231,Calcium lactate,True
+DB13257,Ferrous sulfate anhydrous,True
+DB13323,Trichloroethylene,True
+DB13518,Alginic acid,True
+DB13595,Almasilate,True
+DB13747,Trolamine,True
+DB13783,Acemetacin,True
+DB13813,Iodoform,True
+DB13853,Anethole trithione,True
+DB13872,Lormetazepam,True
+DB13873,Fenofibric acid,True
+DB13874,Enasidenib,True
+DB13878,Pibrentasvir,True
+DB13879,Glecaprevir,True
+DB13882,Methyl nicotinate,True
+DB13908,Amylmetacresol,True
+DB13909,Bismuth subgallate,True
+DB13910,Valproate bismuth,True
+DB13911,Phloxine B,True
+DB13925,Dotatate gallium Ga-68,True
+DB13928,Semaglutide,True
+DB00873,Loteprednol,True
+DB00781,Polymyxin B,True
