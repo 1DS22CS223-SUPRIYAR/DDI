@@ -1,0 +1,49 @@
+# Node.js (for both frontend and backend)
+node_modules/
+
+# Build directories (frontend and backend)
+dist/
+build/
+out/
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+*.bak
+
+# IDEs and text editors (can be specific to your editor)
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Dependency directories
+frontend/node_modules/
+backend/node_modules/
+
+# Frontend build files (specific to React/Angular/Vue)
+frontend/build/
+frontend/.next/
+frontend/dist/
+
+# Backend specific (e.g., Python, Django, or FastAPI)
+backend/__pycache__/
+backend/*.pyc
+backend/.env
+
+# Virtual Environment (for Python-based backends)
+venv/
+env/
+*.env
+
+# Misc files
+.DS_Store
+Thumbs.db
