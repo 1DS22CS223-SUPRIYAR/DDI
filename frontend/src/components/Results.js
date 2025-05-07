@@ -5,12 +5,12 @@ const Results = ({ interactionType, description, accuracy }) => {
 
   useEffect(() => {
     if (accuracyFillRef.current) {
-      accuracyFillRef.current.style.width = `${accuracy}%`;
+      accuracyFillRef.current.style.width = `${accuracy*100}%`;
       
       // Set color based on accuracy
-      if (accuracy > 90) {
+      if (accuracy*100 > 90) {
         accuracyFillRef.current.style.backgroundColor = 'var(--success)';
-      } else if (accuracy > 75) {
+      } else if (accuracy*100 > 75) {
         accuracyFillRef.current.style.backgroundColor = 'var(--warning)';
       } else {
         accuracyFillRef.current.style.backgroundColor = 'var(--danger)';
