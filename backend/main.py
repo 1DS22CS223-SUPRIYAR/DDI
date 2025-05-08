@@ -18,7 +18,7 @@ app.add_middleware(
     allow_headers=["Content-Type", "Authorization"],
 )
 
-SDF_DIR = './resources/sdf'
+SDF_DIR = './dataset/sdf'
 
 @app.get("/")
 async def root():

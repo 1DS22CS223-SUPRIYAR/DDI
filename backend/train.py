@@ -13,7 +13,7 @@ from collator import *
 torch.manual_seed(2)
 np.random.seed(3)
 from configs import Model_config
-from dataset import Dataset
+from DDI.backend.dataset import Dataset
 
 # Check if CUDA or MPS is available
 use_cuda = torch.cuda.is_available()

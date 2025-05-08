@@ -50,29 +50,6 @@ function App() {
     }
   }, [currentPage]);
 
-  const interactions = {
-    'aspirin_ibuprofen': {
-      type: 'Moderate Interaction',
-      desc: 'Increased risk of gastrointestinal bleeding when these two NSAIDs are taken together.',
-      accuracy: 92,
-    },
-    'aspirin_warfarin': {
-      type: 'Major Interaction',
-      desc: 'Aspirin may increase the anticoagulant effect of warfarin, increasing bleeding risk.',
-      accuracy: 97,
-    },
-    'simvastatin_warfarin': {
-      type: 'Minor Interaction',
-      desc: 'Simvastatin may slightly increase the effect of warfarin. Monitor INR.',
-      accuracy: 85,
-    },
-    default: {
-      type: 'No Interaction',
-      desc: 'These drugs can be safely taken together.',
-      accuracy: 95,
-    },
-  };
-
   const handleDrugChange = (drug, value) => {
     setSelectedDrugs((prev) => ({
       ...prev,
@@ -96,6 +73,14 @@ function App() {
       const data = await response.json();
       setResults(data);
       setShowResults(true);
+
+      setTimeout(()=>{
+        window.scrollTo({
+          top: document.documentElement.scrollHeight,
+          behavior: 'smooth',
+        })
+      }, 100)
+
     } catch (error) {
       console.error('Error fetching interaction:', error);
       alert('An error occurred while fetching interaction data');

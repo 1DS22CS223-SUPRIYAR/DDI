@@ -10,7 +10,7 @@ from tqdm import tqdm
 torch.manual_seed(2)
 np.random.seed(3)
 from argparse import ArgumentParser
-from dataset import Dataset
+from DDI.backend.dataset import Dataset
 from torch.autograd import Variable
 from sklearn.metrics import f1_score, precision_score, recall_score, accuracy_score
 from collator import collator
