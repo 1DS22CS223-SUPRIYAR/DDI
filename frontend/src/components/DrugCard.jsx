@@ -1,60 +1,77 @@
 import React, { useState, useEffect, useRef } from 'react';
 import Select from 'react-select';
 import Modal from 'react-modal';
-import OCL from 'openchemlib';  
+import OCL from 'openchemlib';
 
 const DrugCard = ({ title, options, selectedValue, onChange, otherSelectedValue }) => {
   const [sdfData, setSdfData] = useState('');
   const [isModalOpen, setIsModalOpen] = useState(false);
   const canvasRef = useRef(null);
   const modalCanvasRef = useRef(null);
+  const [isLoading, setIsLoading] = useState(false);
 
   useEffect(() => {
     if (selectedValue) {
+      setIsLoading(true);
       fetch(`http://localhost:8000/getSdf/${selectedValue}`)
         .then(res => res.text())
-        .then(data => setSdfData(data))
+        .then(data => {
+          setSdfData(data);
+          setIsLoading(false);
+        })
         .catch(err => {
           console.error('Error fetching SDF:', err);
           setSdfData('');
+          setIsLoading(false);
         });
     } else {
       setSdfData('');
     }
   }, [selectedValue]);
 
-  useEffect(() => {
-    if (sdfData && canvasRef.current) {
-      try {
-        const molecule = OCL.Molecule.fromMolfile(sdfData);
-        const svg = molecule.toSVG(300, 300);
-        canvasRef.current.innerHTML = svg;
-      } catch (err) {
-        console.error('Error rendering molecule:', err);
-        canvasRef.current.innerHTML = '<p>Unable to render molecule</p>';
-      }
-    } else if (canvasRef.current) {
-      canvasRef.current.innerHTML = '';
+  const renderMolecule = (canvasElement, sdf, width, height) => {
+    if (!canvasElement || !sdf) return;
+    
+    try {
+      const molecule = OCL.Molecule.fromMolfile(sdf);
+      // Clear previous content
+      canvasElement.innerHTML = '';
+      
+      // Create SVG with proper viewBox and preserveAspectRatio
+      const svg = molecule.toSVG(width, height, undefined, {
+        viewBox: `0 0 ${width} ${height}`,
+        preserveAspectRatio: 'xMidYMid meet'
+      });
+      
+      // Center the SVG in its container
+      const container = document.createElement('div');
+      container.style.display = 'flex';
+      container.style.justifyContent = 'center';
+      container.style.alignItems = 'center';
+      container.style.width = '100%';
+      container.style.height = '100%';
+      container.innerHTML = svg;
+      
+      canvasElement.appendChild(container);
+    } catch (err) {
+      console.error('Error rendering molecule:', err);
+      canvasElement.innerHTML = '<p>Unable to render molecule</p>';
     }
+  };
+
+  useEffect(() => {
+    renderMolecule(canvasRef.current, sdfData, 300, 300);
   }, [sdfData]);
 
   useEffect(() => {
-  if (isModalOpen && sdfData) {
-    const timeout = setTimeout(() => {
-      if (modalCanvasRef.current) {
-        try {
-          const molecule = OCL.Molecule.fromMolfile(sdfData);
-          const svg = molecule.toSVG(800, 800);
-          modalCanvasRef.current.innerHTML = svg;
-        } catch (err) {
-          console.error('Error rendering molecule in modal:', err);
-          modalCanvasRef.current.innerHTML = '<p>Unable to render molecule</p>';
-        }
-      }
-    }, 100); // slight delay to let modal DOM appear
-    return () => clearTimeout(timeout);
-  }
-}, [isModalOpen, sdfData]);
+    if (isModalOpen) {
+      // Small delay to ensure modal is fully rendered
+      const timer = setTimeout(() => {
+        renderMolecule(modalCanvasRef.current, sdfData, 600, 600);
+      }, 50);
+      return () => clearTimeout(timer);
+    }
+  }, [isModalOpen, sdfData]);
 
   const selectOptions = options.map(drug => ({
     value: drug.id,
@@ -83,11 +100,20 @@ const DrugCard = ({ title, options, selectedValue, onChange, otherSelectedValue 
           height: '300px',
           border: '1px solid #ccc',
           background: '#fff',
-          cursor: 'pointer'
+          cursor: 'pointer',
+          display: 'flex',
+          justifyContent: 'center',
+          alignItems: 'center'
         }}
         onClick={() => setIsModalOpen(true)}
       >
-        {!sdfData && selectedValue && <p>Loading molecule...</p>}
+        {isLoading ? (
+          <p>Loading molecule...</p>
+        ) : !sdfData && selectedValue ? (
+          <p>No structure available</p>
+        ) : !selectedValue ? (
+          <p>Select a drug to view structure</p>
+        ) : null}
       </div>
 
       <Modal
@@ -96,17 +122,10 @@ const DrugCard = ({ title, options, selectedValue, onChange, otherSelectedValue 
         contentLabel="Molecule Viewer"
         style={{
           overlay: {
-            position: 'fixed',
-            top: 0,
-            left: 0,
-            right: 0,
-            bottom: 0,
             backgroundColor: 'rgba(0, 0, 0, 0.75)',
-            zIndex: 1000,
-            overflow: 'hidden'
+            zIndex: 1000
           },
           content: { 
-            position: 'absolute',
             top: '50%',
             left: '50%',
             right: 'auto',
@@ -116,11 +135,10 @@ const DrugCard = ({ title, options, selectedValue, onChange, otherSelectedValue 
             border: 'none',
             background: '#f9f9f9',
             borderRadius: '10px',
-            overflow: 'hidden',
             width: '650px',
             height: '700px',
-            display: 'flex',
-            flexDirection: 'column'
+            maxWidth: '90vw',
+            maxHeight: '90vh'
           }
         }}
       >
@@ -131,7 +149,7 @@ const DrugCard = ({ title, options, selectedValue, onChange, otherSelectedValue 
           justifyContent: 'space-between',
           alignItems: 'center'
         }}>
-          <h2 style={{ margin: 0 }}>Molecule Viewer</h2>
+          <h2 style={{ margin: 0 }}>Molecule Structure</h2>
           <button 
             onClick={() => setIsModalOpen(false)}
             style={{
@@ -148,16 +166,20 @@ const DrugCard = ({ title, options, selectedValue, onChange, otherSelectedValue 
         <div
           ref={modalCanvasRef}
           style={{
-            flex: 1,
             width: '100%',
-            height: '100%',
+            height: 'calc(100% - 61px)',
             display: 'flex',
             alignItems: 'center',
             justifyContent: 'center',
-            overflow: 'hidden'
+            overflow: 'auto',
+            padding: '20px'
           }}
         >
-          {!sdfData && <p>Loading molecule...</p>}
+          {isLoading ? (
+            <p>Loading molecule...</p>
+          ) : !sdfData ? (
+            <p>No structure available</p>
+          ) : null}
         </div>
       </Modal>
     </div>

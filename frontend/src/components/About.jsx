@@ -1,8 +1,12 @@
 import React from 'react';
 import '../styles/About.css';
+import { useNavigate } from 'react-router-dom';
 
 const About = () => {
+  const navigate = useNavigate();
   return (
+    <div className='main-content'>
+
     <div className="about-container">
       <div className="about-header">
         <h1>About Drugram</h1>
@@ -107,7 +111,8 @@ const About = () => {
           </p>
           <button 
             className="cta-button"
-            onClick={() => window.location.href = 'root'}
+            onClick={() => navigate('/')}
+            
             >
             Get Started
           </button>   
@@ -121,6 +126,7 @@ const About = () => {
           </p>
         </section>
       </div>
+    </div>
     </div>
   );
 };
