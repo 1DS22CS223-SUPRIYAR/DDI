@@ -4,6 +4,7 @@ from fastapi.middleware.cors import CORSMiddleware
 import os
 from fastapi.responses import FileResponse
 import numpy as np
+from predict_interaction import predict_interaction
 
 origins = [
     "http://localhost:3000",  # React dev server
@@ -61,7 +62,7 @@ def predict_interaction(drug1: str, drug2: str):
     drug2_name = drug2_name_row.iloc[0]['Drug Name'] if not drug2_name_row.empty else drug2
 
     # Random interaction row
-    interaction = np.random.randint(0, len(df))
+    interaction, probability = predict_interaction(key1, key2)
     interaction_row = df.iloc[interaction]
 
     # fetch description
@@ -75,5 +76,5 @@ def predict_interaction(drug1: str, drug2: str):
     return {
         "type": ddi_name,
         "desc": description_filled,
-        "accuracy": "0.85"
+        "accuracy": probability
     }

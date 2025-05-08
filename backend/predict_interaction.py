@@ -4,7 +4,7 @@ import pandas as pd
 from torch.utils.data import DataLoader
 from gen_mol_graph import sdf2graph, mol_to_single_emb
 from configs import Model_config
-from DDI.backend.dataset import Dataset
+from dataset import Dataset
 from torch.autograd import Variable
 from collator import collator
 

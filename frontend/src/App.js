@@ -94,7 +94,10 @@ function App() {
         <div className="nav-links">
           <button 
             className={`nav-link ${currentPage === 'home' ? 'active' : ''}`}
-            onClick={() => setCurrentPage('home')}
+            onClick={() => {
+              setCurrentPage('home')
+              window.location.reload();
+            }}
           >
             Home
           </button>
